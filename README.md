@@ -1,2 +1,0 @@
-# ustacampus.github.io
-ustacampus :*
